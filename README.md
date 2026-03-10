@@ -86,7 +86,7 @@ Java, Realtime Database,  Cloud Messaging
 
 - GitHub: https://github.com/wisaniMawisi
 - LinkedIn: (https://www.linkedin.com/in/wisani-mathevula-406b6621b/)
-- Email: wisanimathevula6@email.com
+- Email: wisanimathevula6@gmail.com
 
 ---
 
