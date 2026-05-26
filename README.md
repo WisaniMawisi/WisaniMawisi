@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Wisani Mathevula
 
 💻 Software Developer | Mobile & Web Developer | IT Technician & Support  
-📍 Pretoria, South Africa  
+📍 South Africa  
 
 ---
 
@@ -152,6 +152,7 @@ An Android admin application that receives push notifications when users submit 
 - LinkedIn: https://www.linkedin.com/in/wisani-mathevula-406b6621b/
 - Portfolio: https://wisanimat.42web.io
 - Email: wisanimathevula6@gmail.com
+- WhatsApp: https://wa.me/+27797504158
 
 ---
 
